@@ -1,0 +1,10 @@
+.jumbotron {
+  background-color: yellow;
+}
+
+.navbar {
+  background-color: yellow;
+}
+.card-img-top:hover {
+  size: 30px;
+}
